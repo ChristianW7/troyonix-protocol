@@ -1,0 +1,8 @@
+# Ignore system + env files
+.DS_Store
+.env
+.venv/
+__pycache__/
+*.pyc
+node_modules/
+dist/

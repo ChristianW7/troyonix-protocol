@@ -67,7 +67,7 @@ If we split the Troyonix vision cleanly:
 - **Troyonix AI Platform** = the intelligence + experience layer → agents, dashboards, portfolio optimization, risk models, compliance AI.  
   *This is the “Visa network + fraud detection + customer portal” on top.*  
 
-✨ Together → you’re not just making another DeFi protocol. Your building knew financial systems.
+✨ Together → you’re not just making another DeFi protocol. Your building new financial systems.
 - Instead of just moving dollars → moving tokenized real assets (funds, equities, real estate, alt investments)  
 - Instead of slow TradFi rails → instant, cross-chain rails  
 - Instead of just settlement → AI-driven compliance + intelligence (where Visa/MC don’t touch)  

@@ -62,7 +62,7 @@ troyonix-protocol/
 If we split the Troyonix vision cleanly:  
 
 - **Troyonix Protocol** = the plumbing layer → smart contracts, token standards, compliance, APIs.  
-  *This is your “settlement + issuance” engine. Think of it like the rails Visa/Mastercard run on.*  
+  *This is your “settlement + issuance” engine.
 
 - **Troyonix AI Platform** = the intelligence + experience layer → agents, dashboards, portfolio optimization, risk models, compliance AI.  
   *This is the “Visa network + fraud detection + customer portal” on top.*  
